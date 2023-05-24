@@ -28,7 +28,7 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 
-```
+```py
 Data Preprocessing
 
 import seaborn as sns
